@@ -13,7 +13,7 @@ Hasim</a></h1>
 
 - 🔭 I’m currently studying at <a href="https://www.hwdsb.on.ca/henderson/" target="blank"> Nora Frances Henderson Secondary School</a>
 
-- 🌱 I’m currently Working on Python Game
+- 🌱 I’m currently working on Python Game
 
 - 🤝 I’m studying to go to University for Computer Science
 
